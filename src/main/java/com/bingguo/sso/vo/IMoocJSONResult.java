@@ -23,7 +23,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
  * 
  * @author leechenxiang
  * @date 2016年4月22日 下午8:33:36
- * @version V1.0ss
+ * @version V1.0
  */
 public class IMoocJSONResult {
 
